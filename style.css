@@ -78,7 +78,7 @@ body{
 .todoList li{
   position: relative;
   list-style: none;
-  margin-bottom: 8px;
+  margin-bottom: 30px;
   background: #f2f2f2;
   border-radius: 3px;
   padding: 10px 15px;
